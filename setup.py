@@ -11,9 +11,9 @@ setuptools.setup(
     description='Testing installation of Package',
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url='https://github.com/abekor',
+    url='https://github.com/abekor/practice_function',
     project_urls = {
-        "Bug Tracker": "https://github.com/abekor"
+        "Bug Tracker": "https://github.com/abekor/practice_function/issues"
     },
     license='MIT',
     packages=['practice_function'],
